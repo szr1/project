@@ -9,5 +9,5 @@ Ezeket csináltam:
   -  a végpontoknak megfelelő agyi területek elnevezései
   -  az adott él hány személynél fordul elő 
   -  az élek attribútumainak átlaga és mediánja (itt csak azokat a személyeket nézzük, akiknél megtalálható az adott él).
-Az ehhez tartozó kód az edge_tables notebookban, a létrehozott táblázatok a tables mappában találhatóak meg.
+Az ehhez tartozó kód az edge_tables notebookban, a létrehozott táblázatok a tables_new mappában találhatóak meg.
 - Végül a diagram notebookban néhány ábra szerepel, ami azt mutatja, hogy különböző felbontásoknál (egyre több és több részre osztjuk az agyat), hogyan változik a közös élek száma.
