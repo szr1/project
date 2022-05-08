@@ -1,4 +1,4 @@
-Egy egyetemi projekthez készítettem ezeket a jupyter notebookokat. \\
+Egy egyetemi projekthez készítettem ezeket a jupyter notebookokat. \newline
 Adat:
 - Vannak agygráfjaink, ezekben a csúcsok agyterületeknek felelnek meg, és két csúcs össze van kötve, ha a megfelelő agyterületek között található idegrost, amin az információ terjedhet. Az éleknek vannak attribútumaik, amik személyenként eltérnek: fiber_length, number_of_fibers, FA. \\
 Ezeket csináltam:
